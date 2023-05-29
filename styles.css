@@ -1,0 +1,239 @@
+
+.main{
+
+    width: 900px;
+    height: 60px;;
+    /*border: solid red;*/
+    display: flex;
+    margin-top: 5px;
+    
+    }
+
+.div1{
+    width: 250px;
+    height: 40px;
+    /*border: solid yellow;*/
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    display: block;
+    
+}
+
+.div2{
+    width: 400px;
+    height: 40px;
+    /*border: solid green;*/
+    padding-bottom: 20px;
+    margin-top: 10px;
+
+}
+.div3{
+
+    width: 250px;
+    height: 40px;
+    /*border: solid orangered;*/
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    
+   
+   
+}
+
+input{
+
+    width: 100px;
+    border: none;
+    border-bottom:dotted rgba(0, 0, 0, 0.664);
+    font-size: 22px;
+    font-family: 'Kalam';
+    color: #000F55;
+
+    
+}
+
+h3{
+
+    text-align: center;
+    font-size: larger;
+    line-height: 1px;
+}
+
+footer{
+    text-align:left;
+    line-height: 2px;
+    font-size: 13px;
+
+
+}
+
+.Headaddress{
+
+line-height: 2px;
+font-size: 15px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+align-items: end;
+padding-left: 170px;
+text-align: right;
+padding-right: 0;
+margin: 0;
+}
+
+.main_box{
+
+    width: 900px;
+    height: fit-content;
+    /*border: solid red;*/
+    margin: 0 auto 0 auto;
+    border: ridge;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    font-family: Copperplate Gothic;
+    padding: 0;
+    margin: 0;
+    font-size: 25px;
+}
+
+.Date_input{
+
+font-size: 20px;
+width: 160px;
+align-items:end;
+
+}
+
+.name_bar{
+
+width: 622px;
+font-family: 'Kalam';font-size: 25px;
+font-weight: 500;
+
+}
+
+.Sl_no{
+
+text-align: left;
+
+
+}
+
+.Slipdate{
+
+    text-align: right;
+}
+
+.life{
+
+
+    text-align: center;
+    font-size: 25px;
+}
+.data{
+width: 900px;
+height:fit-content;
+/*border: solid green;*/
+
+
+}
+
+.Name{
+text-align: left;
+margin-top: 0;
+
+
+}
+.Address_bar{
+
+    width: 839px;
+}
+.phone_bar{
+    width: 150px;
+
+}
+.Pan_Bar{
+width: 150px;
+}
+
+.email_bar{
+    width: 453px;
+}
+
+.Amt_date{
+    width: auto;
+}
+.Amt_Words {
+    width: 525px;
+
+}
+.KID{
+
+    width: 200px;
+}
+.chbox{
+width: fit-content;
+
+}
+.Authorised_Sign{
+
+    width: 900px;
+    /*border: solid red;*/
+    height: fit-content;
+    padding-top: 1px;
+}
+.Asign{
+    text-align: right;
+    
+}
+.footer_div{
+
+    margin-top: -75px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Address_bar, .phone_bar, .email_bar, .Pan_Bar, .Amt_date, .Amt_Words,.KID, .Bref_number{
+    font-family: 'Kalam';font-size: 22px;
+    font-weight: 500;
+}
+.Bref_number{
+    width: 295px;
+}
+
+.Amt{
+border: solid black;
+border-radius: 10px;
+width: 220px;
+font-weight: 500;
+text-align: center;
+height: 40px;
+font-size: 35px;
+
+}
+.Amount{
+
+    font-size: 40px;
+}
+/* Removing Calender Icon*/
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+
+.Logo-head{
+    display: flex;
+    width: 900px;
+    height: fit-content;
+}
+.Logo{
+    width: 400px;
+}
+img{
+    width: 300px;
+}
+.Userinputs{
+    line-height: 1px;
+}

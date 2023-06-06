@@ -81,7 +81,7 @@ margin: 0;
 
 .main_box{
 
-    width: 900px;
+    max-width: 900px;
     height: fit-content;
     /*border: solid red;*/
     margin: 0 auto 0 auto;
@@ -166,7 +166,7 @@ width: 150px;
     width: auto;
 }
 .Amt_Words {
-    width: 525px;
+    width: 514px;
 
 }
 .KID{
